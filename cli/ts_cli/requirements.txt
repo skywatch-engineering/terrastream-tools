@@ -1,0 +1,5 @@
+pydantic[email]==1.10.2
+python-dateutil
+click
+requests
+../sdk
