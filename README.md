@@ -5,7 +5,6 @@ This repository contains the Python SDK and CLI tools for Terrastream. This is a
 
 
 ## Contents
----
 
 The contents of this repository are:
 
@@ -14,12 +13,12 @@ The contents of this repository are:
 `sdk/` - The Python SDK for Terrastream
 
 ## Pre-requisites
----
+
 - Python 3.6 or higher
 - Credentials (base api url, username and password) for Terrastream provided by an administrator
 
 ## Installation
----
+
 To install the CLI tool, follow these steps:
 
 1. Clone this repository to your local machine.
@@ -41,7 +40,7 @@ make install
 ```
 
 ## Usage
----
+
 
 ### TS-CLI
 Currently these are the available commands through the cli:
@@ -66,6 +65,6 @@ Currently there is no available samples for the SDK. It is only used by the CLI 
 
 
 ## Versions and Support
----
+
 Currently TS SDK and CLI are in alpha version available in the `alpha` branch of this repository.
 These versions are not yet stable, subject to change and support won't be provided. We are working towards a stable release.
