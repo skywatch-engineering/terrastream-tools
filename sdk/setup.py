@@ -20,7 +20,7 @@ module_name = "ts_sdk"
 
 setup(
     name=module_name,  # This is the name of your PyPI-package.
-    version="0.4.1",  # Update the version number for new releases
+    version="0.4.1-alpha",  # Update the version number for new releases
     description="TS software development kit",
     url="https://github.com/skywatch-engineering/terrastream-tools.git",
     author="SkyWatch Engineering",

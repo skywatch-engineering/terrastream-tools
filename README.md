@@ -65,3 +65,5 @@ python ts_cli/cli.py create-custom-product --payload samples/custom_product_task
 Currently there is no available operation for the SDK. It is only used by the CLI tool for now. However, you can install and import SDK modules into your own project. The SDK is not yet stable and is subject to change.
 
 
+## Versions
+---
