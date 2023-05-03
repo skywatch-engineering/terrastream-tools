@@ -1,0 +1,38 @@
+{
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [
+                    -58.89365220052895,
+                    -34.43227858386574
+                ],
+                [
+                    -58.80916015635142,
+                    -34.43227858386574
+                ],
+                [
+                    -58.80916015635142,
+                    -34.49787423959832
+                ],
+                [
+                    -58.89365220052895,
+                    -34.49787423959832
+                ],
+                [
+                    -58.89365220052895,
+                    -34.43227858386574
+                ]
+            ]
+        ]
+    },
+    "properties": {
+        "name": "name_for_custom_product_here",
+        "capture_ts": "2023-04-28 15:09:44.058467",
+        "source_name": "sample_source",
+        "num_parts": 1
+    },
+    "type": "tasking",
+    "request_id": "1940b936-ec9d-4428-8e4a-174181a038b1",
+    "fetch_code": "order_code_from_provider"
+}

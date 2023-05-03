@@ -1,0 +1,9 @@
+
+**/cachetools
+**/build/
+**/*.egg-info/
+**/dist/
+**/.pytest_cache
+**/venv
+**/.tscfg
+**/__pycache__
